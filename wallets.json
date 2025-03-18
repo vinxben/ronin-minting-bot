@@ -1,0 +1,8 @@
+{
+    "wallets": [
+      {
+        "address": "Your Wallet address",
+        "privateKey": "Your Private Key"
+      }
+    ]
+  }
